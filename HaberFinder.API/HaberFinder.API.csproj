@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HaberFinder.Business\HaberFinder.Business.csproj" />
+    <ProjectReference Include="..\HaberFinder.Entities\HaberFinder.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

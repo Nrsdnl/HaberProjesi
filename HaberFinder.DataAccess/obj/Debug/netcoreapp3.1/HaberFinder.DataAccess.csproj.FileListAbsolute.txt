@@ -1,0 +1,16 @@
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\bin\Debug\netcoreapp3.1\HaberFinder.DataAccess.deps.json
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\bin\Debug\netcoreapp3.1\HaberFinder.DataAccess.runtimeconfig.json
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\bin\Debug\netcoreapp3.1\HaberFinder.DataAccess.runtimeconfig.dev.json
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\bin\Debug\netcoreapp3.1\HaberFinder.DataAccess.dll
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\bin\Debug\netcoreapp3.1\HaberFinder.DataAccess.pdb
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\bin\Debug\netcoreapp3.1\HaberFinder.Entities.dll
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\bin\Debug\netcoreapp3.1\HaberFinder.Entities.pdb
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.AssemblyInfo.cs
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.csproj.CopyComplete
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.dll
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.pdb
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.DataAccess\obj\Debug\netcoreapp3.1\HaberFinder.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\bin\Debug\netcoreapp3.1\HaberFinder.Entities.deps.json
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\bin\Debug\netcoreapp3.1\HaberFinder.Entities.dll
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\bin\Debug\netcoreapp3.1\HaberFinder.Entities.pdb
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\obj\Debug\netcoreapp3.1\HaberFinder.Entities.csproj.AssemblyReference.cache
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\obj\Debug\netcoreapp3.1\HaberFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\obj\Debug\netcoreapp3.1\HaberFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\obj\Debug\netcoreapp3.1\HaberFinder.Entities.AssemblyInfo.cs
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\obj\Debug\netcoreapp3.1\HaberFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\obj\Debug\netcoreapp3.1\HaberFinder.Entities.dll
+C:\Users\BE1-003-007\Desktop\ÖZEL\Nurseda\AcerPro\Haberler\HaberFinder.Entities\obj\Debug\netcoreapp3.1\HaberFinder.Entities.pdb
